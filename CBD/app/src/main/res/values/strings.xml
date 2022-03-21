@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CBD</string>
+
+    <!--Formatos de birra-->
+    <string name="formato0">Formato</string>
+    <string name="formato1">20cl</string>
+    <string name="formato2">25cl</string>
+    <string name="formato3">330ml</string>
+    <string name="formato4">440ml</string>
+    <string name="formato5">500ml</string>
+    <string name="formato6">75cl</string>
+    <string name="formato7">1L</string>
+    <string name="formato8">1,1L</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>

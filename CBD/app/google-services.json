@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "436237265519",
+    "firebase_url": "https://proyecto-cbd.firebaseio.com",
+    "project_id": "proyecto-cbd",
+    "storage_bucket": "proyecto-cbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436237265519:android:0d2a73b50e3dc8b72cfb9a",
+        "android_client_info": {
+          "package_name": "com.example.cbd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436237265519-53264v9sj31n3k4d3ipf15kecnmfh1sk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cbd",
+            "certificate_hash": "8f04c39d39716540dbc412706393c39c118806bf"
+          }
+        },
+        {
+          "client_id": "436237265519-4c59fb7gtnmu52a0vp5nj832136par32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjP7RYEH3H0sFUxBLLOoqWKA2BbrZjDsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436237265519-4c59fb7gtnmu52a0vp5nj832136par32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

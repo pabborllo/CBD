@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="formatosBirra">
+        <item>@string/formato0</item>
+        <item>@string/formato1</item>
+        <item>@string/formato2</item>
+        <item>@string/formato3</item>
+        <item>@string/formato4</item>
+        <item>@string/formato5</item>
+        <item>@string/formato6</item>
+        <item>@string/formato7</item>
+        <item>@string/formato8</item>
+    </string-array>
+</resources>

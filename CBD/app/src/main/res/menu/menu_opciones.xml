@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/filtroNombre"
+        app:showAsAction="never"
+        android:title="Por nombre">
+        <menu>
+            <item
+                android:id="@+id/todasNombre"
+                app:showAsAction="never"
+                android:title="Todas"/>
+            <item
+                android:id="@+id/paulaner"
+                app:showAsAction="never"
+                android:title="Paulaner"/>
+            <item
+                android:id="@+id/custom_filter"
+                app:showAsAction="never"
+                android:title="Filtro"/>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/filtroAlcohol"
+        app:showAsAction="never"
+        android:title="Por alcohol">
+        <menu>
+            <item
+                android:id="@+id/todasAlcohol"
+                app:showAsAction="never"
+                android:title="Todas"/>
+            <item
+                android:id="@+id/menorIgual5"
+                app:showAsAction="never"
+                android:title="Menor o igual a 5%"/>
+            <item
+                android:id="@+id/igual5"
+                app:showAsAction="never"
+                android:title="Igual a 5%"/>
+            <item
+                android:id="@+id/mayorIgual5"
+                app:showAsAction="never"
+                android:title="Mayor o igual a 5%"/>
+
+        </menu>
+    </item>
+    <item
+        android:id="@+id/fotos"
+        app:showAsAction="never"
+        android:title="Ver fotos"/>
+    <item
+        android:id="@+id/reset"
+        app:showAsAction="never"
+        android:title="Reset"/>
+
+</menu>
