@@ -3,4 +3,4 @@
 Native Android App using Java
 
 Google APIs consumed:
-  - Firebase (Authentication, Realtime database, Firebase Storage)
+  - Firebase (Authentication, Realtime Database, Firebase Storage)
